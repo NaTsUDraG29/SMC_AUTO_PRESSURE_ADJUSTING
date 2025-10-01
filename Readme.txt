@@ -1,0 +1,1 @@
+Electro_pneumatic SMC pressure regulator, where used to regulate the pressure from min to max at an increment of 0.2 bar (for now) for achieving the accurate struct thickness
